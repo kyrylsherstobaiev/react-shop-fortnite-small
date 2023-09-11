@@ -1,4 +1,4 @@
 # React Shop Small Fortnite Portfolio Project
 
-[Demo](https://github.com/facebook/create-react-app).
+ [DEMO](https://kyrylsherstobaiev.github.io/react-shop-fortnite-small).
 
