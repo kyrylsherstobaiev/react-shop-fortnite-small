@@ -2,8 +2,6 @@
 
 A React-based e-commerce application that displays the Fortnite item shop, allowing users to browse items and manage a shopping cart.
 
-[**LIVE DEMO**](https://kyrylsherstobaiev.github.io/react-shop-fortnite-small)
-
 ---
 
 ## ✨ Features
